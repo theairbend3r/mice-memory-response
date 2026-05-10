@@ -1,4 +1,4 @@
-# Spiking Brains
+# Mice Memory Response
 
 [![Documentation Status](https://readthedocs.org/projects/spiking-brains/badge/?version=latest)](https://spiking-brains.readthedocs.io/en/latest/?badge=latest)
 
